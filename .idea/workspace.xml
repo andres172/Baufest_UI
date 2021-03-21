@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6d56e4b-3598-4f26-a91e-25df9f352a97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UI-AutomationTest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1puG5enS83amijpwEf5JcvCpNvp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestRun">
+    <configuration name="Feature: SignUp" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/SignUp.feature" />
+      <option name="GLUE" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="UI-AutomationTest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: SignUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ANDRES/Desktop/Ejercicio_Belatrix/Baufest/UI-AutomationTest/src/test/resources/config/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UI-AutomationTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/config/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UI-AutomationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.TestRun" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestRun" />
+        <item itemvalue="Cucumber java.Feature: SignUp" />
+        <item itemvalue="TestNG.C:/Users/ANDRES/Desktop/Ejercicio_Belatrix/Baufest/UI-AutomationTest/src/test/resources/config/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6d56e4b-3598-4f26-a91e-25df9f352a97" name="Default Changelist" comment="" />
+      <created>1616025379698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616025379698</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="639" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1616045310306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="639" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1616045310306" />
+    <state x="79" y="134" key="#xdebugger.evaluate" timestamp="1616299074946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="79" y="134" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1616299074946" />
+    <state x="592" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616028272442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="592" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1616028272442" />
+    <state width="1286" height="204" key="GridCell.Tab.0.bottom" timestamp="1616304688604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616304688604" />
+    <state width="1286" height="204" key="GridCell.Tab.0.center" timestamp="1616304688603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616304688603" />
+    <state width="1286" height="204" key="GridCell.Tab.0.left" timestamp="1616304688603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616304688603" />
+    <state width="1286" height="204" key="GridCell.Tab.0.right" timestamp="1616304688603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616304688603" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1616304707479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616304707479" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1616304707479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1616304707479" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1616304707478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1616304707478" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1616304707479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1616304707479" />
+    <state x="247" y="32" key="Maven.ArtifactSearchDialog" timestamp="1616122335775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="247" y="32" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1616122335775" />
+    <state x="335" y="13" key="SettingsEditor" timestamp="1616042865467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="335" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616042865467" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1616304120314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1616304120314" />
+    <state x="490" y="178" key="run.anything.popup" timestamp="1616280549983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="490" y="178" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1616280549983" />
+    <state x="490" y="48" width="670" height="676" key="search.everywhere.popup" timestamp="1616046735397">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="490" y="48" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1616046735397" />
+  </component>
+</project>
